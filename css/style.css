@@ -1,5 +1,19 @@
-@import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400&display=swap');
 
 body{
     font-family: 'Poppins', sans-serif;
+}
+.w-85{
+    width: 85%;
+}
+.fs-48{
+    font-size: 48px;
+}
+
+.carousel-item h1{
+    font-weight: 600;
+}
+.carousel-item p{
+    font-size: 16px;
+    font-weight: 300;
 }
