@@ -18,13 +18,6 @@ ul li{
 .fs-48{
     font-size: 48px;
 }
-.btn-white{
-    color: #3F87F5;
-    background: #FFFFFF;
-    border-radius: 5px;
-    padding-left: 35px;
-    padding-right: 35px;
-}
 .btn-choose-plan{
     color: #ecf0f1;
     font-size: 15px;
@@ -37,13 +30,18 @@ ul li{
 /* default styles */
 
 /* slider styles */
-.carousel-item h1{
+.carousel-item img{
+    height: 700px;
+    object-fit: cover;
+    object-position: center;
+}
+/* .carousel-item h1{
     font-weight: 600;
 }
 .carousel-item p{
     font-size: 16px;
     font-weight: 300;
-}
+} */
 /* slider styles */
 
 /* our package styles */
@@ -104,9 +102,7 @@ footer .row{
 
 /* responsive styles */
 @media  (min-width: 0px) and (max-width: 575.98px) {
-    .carousel-item img{
-        height: 150%;
-    } 
+   
     .our-package-content .card{
         margin-top: 50px;
     }
