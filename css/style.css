@@ -9,6 +9,13 @@ body{
 .fs-48{
     font-size: 48px;
 }
+.btn-white{
+    color: #3F87F5;
+    background: #FFFFFF;
+    border-radius: 5px;
+    padding-left: 35px;
+    padding-right: 35px;
+}
 
 .carousel-item h1{
     font-weight: 600;
