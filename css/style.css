@@ -99,6 +99,13 @@ ul li{
     .active-card .badge{
         left: 380px;
     }
+    .accordion{
+        margin-bottom: 50px;
+    }
+    .our-package-title{
+        margin-bottom: 0;
+        padding-bottom: 0;
+    }
  }
 
  @media (min-width: 576px) and (max-width: 767.98px) { 
