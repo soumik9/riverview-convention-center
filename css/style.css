@@ -1,5 +1,6 @@
 @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400&display=swap');
 
+/* default styles */
 body{
     font-family: 'Poppins', sans-serif;
     background-color: #FFFFFF;
@@ -33,7 +34,9 @@ ul li{
     font-weight: bold;
     border-radius:25px;
 }
+/* default styles */
 
+/* slider styles */
 .carousel-item h1{
     font-weight: 600;
 }
@@ -41,9 +44,9 @@ ul li{
     font-size: 16px;
     font-weight: 300;
 }
+/* slider styles */
 
-
-
+/* our package styles */
 .our-package-content .card-title{
     font-size: 36px;
     font-weight: 700;
@@ -70,7 +73,25 @@ ul li{
     top: -10px;
     left: 240px;
 }
+/* our package styles */
 
+/* customized/contact us styles */
+.contact-us-section{
+    background-image: url(../images/contact.jpg);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.contact-us-section h1{
+    font-weight: 700;
+}
+.contact-us-section button:hover{
+    color: #ecf0f1;
+}
+/* customized/contact us styles */
+
+
+/* responsive styles */
 @media  (min-width: 0px) and (max-width: 575.98px) { 
     .our-package-content .card{
         margin-top: 50px;
@@ -97,3 +118,4 @@ ul li{
         left: 260px;
     }
   }
+/* responsive styles */
