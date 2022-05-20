@@ -1,6 +1,6 @@
 # Riverview Convention Center
 
-#live site:  (Click Here)[https://mission2022-third-assignment.netlify.app/]
+#To explore site: [Click Here](https://mission2022-third-assignment.netlify.app/).
 
 
 ##Features
