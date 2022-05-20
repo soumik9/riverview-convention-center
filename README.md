@@ -1,4 +1,13 @@
-# convention-center-soumik9
-convention-center-soumik9 created by GitHub Classroom
+# Riverview Convention Center
 
-#live site:  https://mission2022-third-assignment.netlify.app/
+#live site:  (Click Here)[https://mission2022-third-assignment.netlify.app/]
+
+
+##Features
+
+* Navbar
+* Slider
+* Packages
+* Contact Us
+* Faqs
+* Footer
